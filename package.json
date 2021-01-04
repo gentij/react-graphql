@@ -1,0 +1,28 @@
+{
+  "name": "react-graphql",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentij/react-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentij/react-graphql/issues"
+  },
+  "homepage": "https://github.com/gentij/react-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.9",
+    "nodemon": "^2.0.6"
+  }
+}
